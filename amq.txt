@@ -1,0 +1,7 @@
+-Dappformer-jms-connection-mode=NONE
+-Dappformer-jms-url=tcp://localhost:61616
+-Dappformer-initial-context-factory=org.wildfly.naming.client.WildFlyInitialContextFactory
+-Dappformer-jms-connection-factory=java:/ConnectionFactory
+-Dappformer-jms-username=
+-Dappformer-jms-password=
+-Dappformer-jms-throttle=1000

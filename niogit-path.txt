@@ -1,0 +1,1 @@
+<property name="org.uberfire.nio.git.dir" value="/opt/kie/niogit"/>

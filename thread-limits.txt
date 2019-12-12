@@ -1,0 +1,3 @@
+-Dorg.appformer.concurrent.managed.thread.limit=1000
+-Dorg.appformer.concurrent.unmanaged.thread.limit=1000
+-Dorg.appformer.concurrent.indexing.thread.limit=0

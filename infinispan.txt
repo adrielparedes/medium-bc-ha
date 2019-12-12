@@ -1,0 +1,7 @@
+-Dorg.appformer.ext.metadata.infinispan.host=127.0.0.1
+-Dorg.appformer.ext.metadata.infinispan.port=11222
+-Dorg.appformer.ext.metadata.infinispan.username=
+-Dorg.appformer.ext.metadata.infinispan.password=
+-Dorg.appformer.ext.metadata.infinispan.realm=ApplicationRealm
+-Dorg.appformer.ext.metadata.infinispan.server.name=
+-Dorg.appformer.ext.metadata.infinispan.sasl.qop=

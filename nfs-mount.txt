@@ -1,0 +1,1 @@
+mount <SERVER_IP>:/opt/nfs/kie /opt/kie/niogit
